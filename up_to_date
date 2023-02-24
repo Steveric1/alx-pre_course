@@ -1,0 +1,4 @@
+git pull - to pull changes from the remote to the local respository
+git push - to push changes to remote repository 
+git add  - to add file to push stage
+
